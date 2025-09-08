@@ -45,4 +45,4 @@ FileCompressor/
 ![Compression Screenshot](ProjectOutput.png)
 
 ### Decompression Window
-![Decompression Screenshot](images/decompression.png)
+![Decompression Screenshot](DecompressionOutput.png)
