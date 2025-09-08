@@ -42,7 +42,7 @@ FileCompressor/
 ## 🔹 Screenshots
 
 ### Compression Window
-![Compression Screenshot](ProjectOutput.png)
+![Compression Screenshot](CompressionOutput.png)
 
 ### Decompression Window
 ![Decompression Screenshot](DecompressionOutput.png)
